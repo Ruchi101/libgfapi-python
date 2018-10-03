@@ -86,6 +86,12 @@ class BinFileOpsTest(unittest.TestCase):
 class FileOpsTest(unittest.TestCase):
 
     vol = None
+
+
+
+
+
+    
     path = None
     data = None
 
